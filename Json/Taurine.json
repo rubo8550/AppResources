@@ -1,13 +1,13 @@
 [
   {
-    "App": "Apple Event",
-    "Icon": "https://tv.apple.com/us/movie/apple-event-030822/umc.cmc.22aj9quf8q5orm9npouioo0sf",
-    "Banner": "https://youtu.be/CUwg_JoNHpo",
-    "Web": "https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo116/v4/21/31/a3/2131a3cb-de4c-773c-548d-8682d90ad890/P381687699_default.m3u8?aec=HD&a=0",
-    "Dev": "https://www.apple.com/apple-events/march-2022/",
-    "Twiiter": "https://appinstallerios.com/GoResources/03-08-2022.reality",
-    "IPA": "https://appinstallerios.com/GoResources/AppleEventIcon.png",
-    "Install": "https://appinstallerios.com/GoResources/AppleEventBanner.png",
-    "Message": "Peek Performance"
+    "App": "AppName",
+    "Icon": "AppIcon",
+    "Banner": "AppBanner",
+    "Web": "Website",
+    "Dev": "Developer",
+    "Twiiter": "TwiiterAccont",
+    "IPA": "IPA",
+    "Install": "PlistURL",
+    "Message": "App Message"
   }
 ]
