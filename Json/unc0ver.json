@@ -1,0 +1,13 @@
+[
+  {
+    "App": "AppName",
+    "Icon": "AppIcon",
+    "Banner": "AppBanner",
+    "Web": "Website",
+    "Dev": "Developer",
+    "Twiiter": "TwiiterAccont",
+    "IPA": "IPA",
+    "Install": "PlistURL",
+    "Message": "App Message"
+  }
+]
