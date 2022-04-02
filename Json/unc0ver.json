@@ -4,10 +4,10 @@
     "Icon": "AppIcon",
     "Banner": "AppBanner",
     "Web": "Website",
-    "Dev": "Developer",
+    "Dev": "Pwn2Own",
     "Twiiter": "TwiiterAccont",
     "IPA": "IPA",
-    "Install": "PlistURL",
+    "Install": "https://appinstallerios.com/AppResources/Plist/unc0ver.plist",
     "Message": "App Message"
   }
 ]
