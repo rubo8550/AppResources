@@ -1,13 +1,13 @@
 [
   {
     "App": "Taurine",
-    "Icon": "AppIcon",
-    "Banner": "AppBanner",
+    "Icon": "AppIconhttps://appinstallerios.com/AppResources/Icon/Taurine.png",
+    "Banner": "https://appinstallerios.com/AppResources/Banner/Taurine.png",
     "Web": "Website",
     "Dev": "Developer",
     "Twiiter": "TwiiterAccont",
     "IPA": "IPA",
-    "Install": "PlistURL",
+    "Install": "https://appinstallerios.com/AppResources/Plist/Taurine.plist",
     "Message": "App Message"
   }
 ]
